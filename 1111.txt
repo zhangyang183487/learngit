@@ -1,2 +1,17 @@
-﻿Git is a version control system.
-Git is free software.
+﻿Dev:
+IP:127.0.0.1
+Eureka:8765
+GateWay:9500
+
+
+Test:
+IP:127.0.0.2
+Eureka:8761
+GateWay:9000
+
+Pro:
+IP:127.0.0.3
+Eureka:8761
+GateWay:9000
+
+	
